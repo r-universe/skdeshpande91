@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "VCBART"]
+	path = VCBART
+	url = https://github.com/skdeshpande91/vcbart
 [submodule "flexBCF"]
 	path = flexBCF
 	url = https://github.com/skdeshpande91/flexbcf
